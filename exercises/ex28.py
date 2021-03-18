@@ -1,0 +1,22 @@
+# Boolean Practice - Various Little Statements to Check Knowledge
+
+- 1. True and True # True. Both are true so entire statement is true
+- 2. False and True # False. Both are not the same so statement is false.
+- 3. 1 == 1 and 2 == 1 # False. Both are not == so statement is false
+- 4. "test" == "test" # True. Both are equal so statement is true.
+- 5. 1 == 1 or 2 != 1 # True. Both are true so OR statement is true.
+- 6. True and 1 == 1 # True. Both are true. Statement is true.
+- 7. False and 0 != 0 # False. Both statements are false so AND statement is false.
+- 8. True or 1 == 1 # True. Both statements are true.
+- 9. "test" == "testing". # False. Not equal statement is false.
+- 10. 1 != 0 and 2 == 1 # False. First is true second is false. Statement is false.
+- 11. "test" != "testing" # True. Statement is true.
+- 12. "test" == 1 # False. Are not equivalent. Statement is false.
+- 13. not (True and False) # True. Inside statement is false so opposite statement is true.
+- 14. not (1 == 1 and 0 != 1) # False. Inside statement is true so opposite is false.
+- 15. not (10 == 1 or 1000 == 1000) # False. Opposite of true.
+- 16. not (1 != 10 or 3 == 4) # False. Inside statement is true so opposite is false.
+- 17. not ("testing" == "testing" and "Zed" == "Cool Guy") # True. Inside is false so opposite is true.
+- 18. 1 == 1 and not ("testing" == 1 or 1 == 0) # True. Parenthesis is false. Opposite is true. Then AND 1 == 1 makes statement true.
+- 19. "Chunky" == "bacon" and not (3 == 4 or 3 == 3) # False. Parenthesis is true. Opposite is false. AND Statement both are false with makes statement false.
+- 20. 3 == 3 and not ("testing" == "testing" or "Python" == "Fun") # False. Inside OR statement is true. Opposite is false. First statement is true but AND with false makes statement false.
